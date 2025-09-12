@@ -1,15 +1,15 @@
 Attribute,Type,Missing_Values,Unique_Values,Min,Max,Mean,StdDev
 patient_id,Nominal (Identifier),0,30000,1.0,30000.0,15000.5,8660.398374208891
-age,Numeric - Ratio (Continuous),500,72,18.0,89.0,53.40610169491526,20.762439996227066
+age,Numeric - Ratio (Continuous),500,72,18.0,89.0,53.40610169491526,20.762439996227144
 gender,Nominal (Categorical),0,9,,,,
-bmi,Numeric - Ratio (Continuous),401,29599,3.7149535587600298,105.31820122938176,25.123160135652288,5.882112645289923
-blood_pressure_systolic,Numeric - Interval (Continuous),0,146,0.0,349.0,119.6029,17.98907997897459
-blood_pressure_diastolic,Numeric - Interval (Continuous),0,78,41.0,125.0,79.4218,10.058176954968353
-cholesterol_level,Numeric - Ratio (Continuous),0,285,7.0,383.0,199.4116,40.2175181614378
-diabetes_type,Ordinal (Discrete),9054,3,0.0,2.0,0.8497565167573761,0.8339359763290479
-heart_disease,Binary,0,2,0.0,1.0,0.2988,0.45773960303309336
-annual_income,"Numeric - Ratio (Continuous, skewed)",0,7435,0.75,523.44,27.716349333333334,26.176230780510746
-exercise_hours_weekly,Numeric - Ratio (Continuous),0,107,0.0,11.4,3.053893333333333,1.8858085934396518
+bmi,Numeric - Ratio (Continuous),401,29599,3.7149535587600298,105.31820122938176,25.12316013565229,5.882112645289929
+blood_pressure_systolic,Numeric - Interval (Continuous),0,146,0.0,349.0,119.6029,17.989079978974736
+blood_pressure_diastolic,Numeric - Interval (Continuous),0,78,41.0,125.0,79.4218,10.058176954968292
+cholesterol_level,Numeric - Ratio (Continuous),0,285,7.0,383.0,199.4116,40.21751816143767
+diabetes_type,Ordinal (Discrete),9054,3,0.0,2.0,0.8497565167573761,0.8339359763289278
+heart_disease,Binary,0,2,0.0,1.0,0.2988,0.4577396030329976
+annual_income,"Numeric - Ratio (Continuous, skewed)",0,7435,0.75,523.44,27.716349333333334,26.17623078051082
+exercise_hours_weekly,Numeric - Ratio (Continuous),0,107,0.0,11.4,3.053893333333333,1.8858085934395867
 smoking_status,Nominal (Categorical),0,6,,,,
-family_history,Binary,0,2,0.0,1.0,0.39586666666666664,0.4890441912848819
-medication_count,Numeric - Ratio (Discrete),0,11,0.0,10.0,1.9944333333333333,1.4100125117881297
+family_history,Binary,0,2,0.0,1.0,0.39586666666666664,0.48904419128499
+medication_count,Numeric - Ratio (Discrete),0,11,0.0,10.0,1.9944333333333333,1.4100125117878688
